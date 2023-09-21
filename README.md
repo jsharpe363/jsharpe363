@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jsharpe363
 - 👀 I’m interested in collaborating in healthcare innovation and product development
-- 🌱 I’m currently learning SAS, SQL, other coding languages to work with health claims data
+- 🌱 I’m currently learning more in R, SAS, SQL, other coding languages to work with health claims data
 - 💞️ I’m looking to collaborate on understanding patient outcomes, access, and engagement
 - 📫 How to reach me, email is best: jsharpe363@gmail.com!
 
